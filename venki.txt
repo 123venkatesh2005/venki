@@ -2,4 +2,6 @@ hell
 world
 commit
 add
+checkout
+issue
 
